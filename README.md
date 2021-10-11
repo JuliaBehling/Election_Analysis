@@ -45,5 +45,4 @@ In this election, there were 3 candidates running for office: Charles Stockham, 
 
 ## Election-Audit Summary:
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
+This script could be used for many forms of elections with just a few minor changes. By using this script, efficiency and accurracy can be greatly increased compared to traditional voting count methods. One way to modify the script is to change the joined csv file to a different election. Another would be alter the variable "county" to account for any other variable, IE State, city, etc.
